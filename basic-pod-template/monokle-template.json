@@ -1,6 +1,6 @@
 {
     "name": "Basic Kubernetes Pod",
-    "id": "com.github.AlapMistry.plugin.templates.basic-pod-template",
+    "id": "com.github.AlapMistry.templates.default.basic-pod-template",
     "author": "Alap Mistry",
     "version": "1.0.0",
     "description": "Creates a Pod for a specified Image",
