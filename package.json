@@ -5,11 +5,6 @@
     "author": "Alap Mistry",
     "repository": "https://github.com/AlapMistry/monokle-templates-plugin",
     "monoklePlugin": {
-        "modules": [
-            {
-                "type": "template",
-                "path": "basic-pod-template"
-            }
-        ]
+        "modules": []
     }
 }
