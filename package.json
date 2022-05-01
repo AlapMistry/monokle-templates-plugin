@@ -1,6 +1,6 @@
 {
-    "name": "Basic Pod Demo",
-    "description": "Basic Pod Demo template",
+    "name": "Basic Demo Pod",
+    "description": "Basic Demo Pod template",
     "version": "1.0.0",
     "author": "Alap Mistry",
     "repository": "https://github.com/AlapMistry/monokle-templates-plugin",
@@ -8,7 +8,7 @@
         "modules": [
             {
                 "type": "template",
-                "path": "../basic-pod-template"
+                "path": "basic-pod-template"
             }
         ]
     }
